@@ -1,6 +1,6 @@
 # 9810
 
-###*Exynos9810 Trees kanged from [Krazey]([https://www.example.com](https://github.com/ExyHyperBrick)). Builds Android14 QPR3, doesnt boot yet*
+### *Exynos9810 Trees kanged from [Krazey]([https://www.example.com](https://github.com/ExyHyperBrick)). Builds Android14 QPR3, doesnt boot yet*
 
 ---
 
