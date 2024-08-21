@@ -5,7 +5,7 @@
 ---
 
 ## Manifests
-'git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests'
+`git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests`
 
 ## Common Trees
 - [device_samsung_exynos9810-common](https://github.com/Localhorst04/device_samsung_exynos9810-common/)
