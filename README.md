@@ -28,3 +28,9 @@ git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 ## Additional Repos
 - [device_samsung_slsi_sepolicy](https://github.com/LineageOS/android_device_samsung_slsi_sepolicy)
 - [hardware_samsung](https://github.com/LineageOS/android_hardware_samsung)
+- [hardware_samsung_slsi-linaro_config](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_config)
+- [hardware_samsung_slsi-linaro_exynos](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_exynos)
+- [hardware_samsung_slsi-linaro_graphics](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_graphics)
+- [hardware_samsung_slsi-linaro_interfaces](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_interfaces)
+- [hardware_samsung_slsi-linaro_openmax](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_openmax)
+
