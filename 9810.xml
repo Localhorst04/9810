@@ -11,9 +11,4 @@
   <project name="Localhorst04/vendor_samsung_starlte" path="vendor/samsung/starlte" remote="github" revision="lineage-21" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-21" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro" remote="github" revision="lineage-21" />
 </manifest>
