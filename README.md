@@ -8,16 +8,16 @@
 git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 ```
 
-## Common Trees
-- [device_samsung_exynos9810-common](https://github.com/Localhorst04/device_samsung_exynos9810-common/)
-- [vendor_samsung_exynos9810-common](https://github.com/Localhorst04/vendor_samsung_exynos9810-common/)
-
 ## Device Trees
+- [device_samsung_exynos9810-common](https://github.com/Localhorst04/device_samsung_exynos9810-common/)
+
 - [device_samsung_starlte](https://github.com/Localhorst04/device_samsung_starlte/)
 - [device_samsung_star2lte](https://github.com/Localhorst04/device_samsung_star2lte/)
 - [device_samsung_crownlte](https://github.com/Localhorst04/device_samsung_crownlte/)
 
 ## Vendor Trees
+- [vendor_samsung_exynos9810-common](https://github.com/Localhorst04/vendor_samsung_exynos9810-common/)
+
 - [vendor_samsung_starlte](https://github.com/Localhorst04/vendor_samsung_starlte/)
 - [vendor_samsung_star2lte](https://github.com/Localhorst04/vendor_samsung_star2lte/)
 - [vendor_samsung_crownlte](https://github.com/Localhorst04/vendor_samsung_crownlte/)
