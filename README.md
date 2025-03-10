@@ -25,6 +25,7 @@ git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 ## Kernel
 - [kernel_samsung_exynos9810](https://github.com/Localhorst04/kernel_samsung_exynos9810/)
 
+
 ## Additional Repos
 - [device_samsung_slsi_sepolicy](https://github.com/LineageOS/android_device_samsung_slsi_sepolicy)
 - [hardware_samsung](https://github.com/LineageOS/android_hardware_samsung)
