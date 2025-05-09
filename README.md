@@ -5,7 +5,7 @@
 
 ## Manifests
 ``` 
-git clone https://github.com/CrownTrailTrees9810/9810 -b main .repo/local_manifests
+git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 ```
 
 ## Device Trees
