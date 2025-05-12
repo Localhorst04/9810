@@ -40,5 +40,6 @@ git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 
 ## Bugs / ToDos
 - [ ] camera crashing
-- [ ] gestures broken
+- [ ] fix overlays
+- [ ] proper bpf fixes
 - [ ] more will be added after more thorough testing
