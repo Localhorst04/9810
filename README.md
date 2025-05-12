@@ -1,5 +1,7 @@
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.techcenturion.com%2Fwp-content%2Fuploads%2F2018%2F05%2FExynos-9810.jpg&f=1&nofb=1&ipt=e9c52e522bf13cb900d1d2cbcee68f2f711bd7648c65422c3cf229259aaccfc2&ipo=images)
-### *Exynos9810 Trees kanged from [Krazey](https://github.com/ExyHyperBrick). Builds Android14 QPR3, doesnt boot yet*
+![exynos](https://github.com/user-attachments/assets/a34529ca-57fd-476c-81ea-57ca294e0562)
+
+
+### *Exynos9810 Trees kanged from [Krazey](https://github.com/ExyHyperBrick). Boots Android14 QPR3 - WIP - unstable*
 
 ---
 
@@ -35,3 +37,8 @@ git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 - [hardware_samsung_slsi-linaro_interfaces](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_interfaces)
 - [hardware_samsung_slsi-linaro_openmax](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_openmax)
 
+
+## Bugs / ToDos
+- [ ] camera crashing
+- [ ] gestures broken
+- [ ] more will be added after more thorough testing
