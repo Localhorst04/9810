@@ -38,8 +38,12 @@ git clone https://github.com/Localhorst04/9810 -b main .repo/local_manifests
 - [hardware_samsung_slsi-linaro_openmax](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_openmax)
 
 
-## Bugs / ToDos
-- [ ] camera crashing
+## ToDos (this list will be updated over time with new ToDos)
+- [ ] fix crashing camera
+- [ ] fix broken audio
 - [ ] fix overlays
-- [ ] proper bpf fixes
-- [ ] more will be added after more thorough testing
+- [ ] proper bpf backports
+- [ ] clean up vendor
+- [ ] clean up starlte device tree
+- [ ] bringup star2lte and crownlte
+- [ ] fix many many errors in log
